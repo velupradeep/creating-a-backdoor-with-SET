@@ -90,4 +90,4 @@ SET logs the information in the xml file under /root/.set directory:
 
 
 ## RESULT:
-The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
+The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully.
